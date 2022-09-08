@@ -1,1 +1,1 @@
-# JavaScriptPractice
+Aici pun mai multe exercitii.
