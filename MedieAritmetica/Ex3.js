@@ -1,3 +1,4 @@
+
 var x = medieGenerala (10,8,9);
 
 function medieGenerala(mate, istorie, romana) {
